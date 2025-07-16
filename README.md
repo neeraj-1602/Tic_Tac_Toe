@@ -4,7 +4,7 @@ This is a simple 2-player **Tic Tac Toe** game built in Java that runs in the co
 
 ---
 
-## 🧠 Game Features
+## Game Features
 
 - 2-player turn-based game (X vs O)
 - Prevents overwriting already marked cells
@@ -14,7 +14,7 @@ This is a simple 2-player **Tic Tac Toe** game built in Java that runs in the co
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack Used
 
 - Java
 - Command-Line Interface (CLI)
@@ -22,7 +22,7 @@ This is a simple 2-player **Tic Tac Toe** game built in Java that runs in the co
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
 
